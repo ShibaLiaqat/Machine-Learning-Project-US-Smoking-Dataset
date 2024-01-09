@@ -5,15 +5,25 @@ Five million Americans are currently living with heart diseases, and the numbers
 Our Dataset has following variables:
 
 1.Gender: Male/Female
+
 2.age: Age of the person
+
 3.education: 1 indicates High School, 2 indicates- Secondary School,3 indicates Graduation, 4 indicates Post Graduation
+
 4.currentSmoker 1: Indicates person is a smoker and 0 indicates non- smoker
+
 5.cigsPerDay :Number of cigrattes consumed in a day
+
 6.BP Meds 1 :indicates person is consuming BP medicines and 0 indicates person is not consuming BP medicines
+
 7.prevalentStroke 1: indicates person had stroke in the past and 0 indicates person did not suffered from stroke in the past
+
 8.prevalentHyp 1 indicates person is suffering from Hypertension and 0 indicates person is not suffering from hypertension
+
 9.diabetes 1 :indicates person is diabatic and 0 indicates person in non-diabetic
+
 10.tot cholesterol :Indicates total cholesterol level in the body
+
 11. Systolic BP :Systolic BP of the person
 12. Diastolic BP: Diastolic BP of the person
 13. BMI: Indicates BMI level in the body
