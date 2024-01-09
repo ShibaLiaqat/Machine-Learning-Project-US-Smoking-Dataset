@@ -25,8 +25,13 @@ Our Dataset has following variables:
 10.tot cholesterol :Indicates total cholesterol level in the body
 
 11. Systolic BP :Systolic BP of the person
+
 12. Diastolic BP: Diastolic BP of the person
+ 
 13. BMI: Indicates BMI level in the body
+  
 14. heartRate :Indicates body heartrate
+    
 15. glucose :Glucose level of the body
+    
 16. Heart-Att 1: Indicates person suffered from Heart-attack and 0 indicates that person will not suffer from Heart-at
